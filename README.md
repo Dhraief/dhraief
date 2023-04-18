@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects about Healthcare in Africa.**
 
-- 🌱 I’m currently learning **Graph Neural Netwprks.**
+- 🌱 I’m currently learning **Graph Neural Networks.**
 
 - 👨‍💻 Some of my projects are available at **dhraief.github.io**
 
